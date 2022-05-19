@@ -1,4 +1,4 @@
 # tewerubbeth
 
 
-Scripts for server side
+Scripts for generating plots on server side
