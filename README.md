@@ -1,2 +1,4 @@
 # tewerubbeth
-TeWeRuBBeTh
+
+
+Scripts for server side
